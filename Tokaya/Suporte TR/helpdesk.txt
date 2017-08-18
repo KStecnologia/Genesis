@@ -1,0 +1,65 @@
+[TITLE]
+Suporte Remoto | Transistor Informática
+
+[HOST]
+Jhonatan
+-connect 187.16.235.122:5917 -noregistry
+[HOST]
+Max
+-connect187.16.235.122:5918 -noregistry
+
+
+[TEXTTOP]
+Clique duas vezes no suporte desejado acima
+e aguarde a conexão.
+
+[TEXTMIDDLE]
+Antes de iniciar a conexão, avise pelo Skype
+
+[TEXTBOTTOM]
+ligue:51 997-461-93(Jhonatan) - 51 995-626-321(Max)
+
+[TEXTRBOTTOM]
+TransistorInformatica@gmail.com
+
+[TEXTRMIDDLE]
+Skype: transistorlajeado
+
+[TEXTRTOP]
+Transistor Informática
+
+[TEXTBUTTON]
+Mais Informações
+
+[WEBPAGE]
+Transistor Soluções em Informática
+
+[TEXTCLOSEBUTTON]
+Fechar
+
+[BALLOON1TITLE]
+Estabelecendo conexão remota...
+
+[BALLOON1A]
+5 minutos de tentativas de conexão
+
+[BALLOON1B]
+Se a conexão falhar, o programa irá
+
+[BALLOON1C]
+se auto-remover do seu sistema. 
+
+[BALLOON2TITLE]
+Conexão ativa.
+
+[BALLOON2A]
+Aguarde enquanto aceitamos a sua conexão...
+
+[BALLOON2B]
+Você pode interromper o suporte remoto a qualquer momento
+
+[BALLOON2C]
+clicando aqui com o botão direito e em seguida em "close".
+
+[WEBPAGE]
+Transistor Soluções em Informática

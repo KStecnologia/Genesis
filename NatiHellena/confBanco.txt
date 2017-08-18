@@ -1,0 +1,1 @@
+localhost;5432;Tokaya;postgres;T1z2x3c4v

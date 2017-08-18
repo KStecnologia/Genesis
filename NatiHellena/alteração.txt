@@ -1,0 +1,3 @@
+alter table cliente add column status boolean
+
+update cliente set status = true
